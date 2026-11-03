@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Image Encryption Based on Grundy Colouring of Random Graphs"
+authors:
+  - family-names: "Rafi"
+    given-names: "Muhammad Azeem Shahid"
+  - family-names: "Ahmad"
+    given-names: "Furqan"
+  - family-names: "Azeem"
+    given-names: "Muhammad"
+  - family-names: "Malik"
+    given-names: "MG Abbas"
+repository-code: "https://github.com/furqantawas454-sketch/Image-Encryption-Based-on-Grundy-Colouring"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Key-dependent Grundy colouring of random graphs for RGB image encryption"
+  authors:
+    - family-names: "Rafi"
+      given-names: "Muhammad Azeem Shahid"
+    - family-names: "Ahmad"
+      given-names: "Furqan"
+    - family-names: "Azeem"
+      given-names: "Muhammad"
+    - family-names: "Malik"
+      given-names: "MG Abbas"
+  status: submitted
