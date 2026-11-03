@@ -14,7 +14,7 @@ repository-code: "https://github.com/furqantawas454-sketch/Image-Encryption-Base
 license: MIT
 preferred-citation:
   type: article
-  title: "Key-dependent Grundy colouring of random graphs for RGB image encryption"
+  title: "A graph colouring approach to RGB image encryption using Grundy colourings and parallel colour-class diffusion"
   authors:
     - family-names: "Rafi"
       given-names: "Muhammad Azeem Shahid"

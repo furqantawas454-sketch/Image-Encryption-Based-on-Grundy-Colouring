@@ -3,7 +3,8 @@
 Python implementation and experiment scripts for the paper
 
 > M.A.S. Rafi, F. Ahmad, M. Azeem, M.G.A. Malik,
-> *Key-dependent Grundy colouring of random graphs for RGB image encryption*.
+> *A graph colouring approach to RGB image encryption using Grundy colourings
+> and parallel colour-class diffusion*.
 
 Every colour component of an RGB image is treated as a vertex of a graph that
 joins neighbouring pixels, the three channels of each pixel, and long-range
